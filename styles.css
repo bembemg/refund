@@ -298,6 +298,10 @@ aside ul {
     height: auto;
     overflow: auto;
   }
+
+  .logo {
+      margin-inline: 1.5rem;
+  }
 }
 
 @media (max-width: 620px) {
