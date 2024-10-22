@@ -10,7 +10,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 0.5rem;
+  width: 0.25rem;
 }
 
 ::-webkit-scrollbar-track {
@@ -18,7 +18,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #e4ece9;
+  background: #1f8459;
 }
 
 body {
@@ -256,7 +256,7 @@ aside ul {
 
 .remove-icon {
   height: 1rem;
-  margin-left: 0.5rem;
+  margin-inline: 0.5rem;
 
   cursor: pointer;
   transition: opacity 0.2s;
